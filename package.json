@@ -1,0 +1,22 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "Testing API in docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rounak-Das-02/docker-cheatsheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rounak-Das-02/docker-cheatsheet/issues"
+  },
+  "homepage": "https://github.com/Rounak-Das-02/docker-cheatsheet#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
